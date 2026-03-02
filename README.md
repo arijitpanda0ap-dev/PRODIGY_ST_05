@@ -1,6 +1,6 @@
 # PRODIGY_ST_05
 
-## 📌 Objective
+## Objective
 Automate the checkout process of an e-commerce website using Selenium WebDriver.
 
 ## 🛠 Tools Used
@@ -8,7 +8,7 @@ Automate the checkout process of an e-commerce website using Selenium WebDriver.
 - Selenium WebDriver
 - Chrome Browser
 
-## 🧪 Test Scenario
+## Test Scenario
 1. Login to the application
 2. Add product to cart
 3. Navigate to cart page
@@ -17,14 +17,14 @@ Automate the checkout process of an e-commerce website using Selenium WebDriver.
 6. Complete order
 7. Verify success message
 
-## ✅ Validations Performed
+## Validations Performed
 - Verified page transitions using URL and element checks
 - Verified cart navigation
 - Verified checkout form submission
 - Verified validation message when form fields are empty
 - Verified order confirmation message
 
-## 🎯 Result
+## Result
 Automation executed successfully and checkout flow completed with proper validation checks.
 
 ## 📸 Proof
