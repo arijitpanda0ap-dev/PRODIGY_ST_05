@@ -31,9 +31,7 @@ Automation executed successfully and checkout flow completed with proper validat
 Screenshots of:
 - Inventory Page
 - Cart Page
-- Checkout Form
 - Checkout Overview
 - Order Confirmation
-- Validation Error
 
 All screenshots are available in the `screenshots` folder.
