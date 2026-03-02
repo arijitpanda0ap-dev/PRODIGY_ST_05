@@ -35,3 +35,9 @@ Screenshots of:
 - Order Confirmation
 
 All screenshots are available in the `screenshots` folder.
+
+## Author
+
+Arijit Panda  
+Software Testing Intern  
+Prodigy InfoTech
