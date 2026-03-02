@@ -3,7 +3,7 @@
 ## Objective
 Automate the checkout process of an e-commerce website using Selenium WebDriver.
 
-## 🛠 Tools Used
+## Tools Used
 - Python
 - Selenium WebDriver
 - Chrome Browser
